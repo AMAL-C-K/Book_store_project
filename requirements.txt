@@ -9,3 +9,4 @@ tzdata==2026.3
 dj-database-url
 python-dotenv
 whitenoise
+gunicorn
